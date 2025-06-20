@@ -1,0 +1,11 @@
+Informativo sobre as Bases de Dados deste Repositório:
+
+Os dados originais foram reduzidos para 100 linhas a fim de não sobrecarregarem o armazenamento do repositório.
+
+----------
+
+English Below:
+
+Information about the Databases in this Repository:
+
+The original data was reduced to 100 rows so as not to overload the repository storage.
